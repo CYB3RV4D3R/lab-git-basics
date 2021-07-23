@@ -1,4 +1,4 @@
-LAB - Python Basics
+LAB - Git Basics
 =====================
 
-Simple workshop for a crash course on the programming language Python.
+Simple workshop for a crash course on Git, Github, Gitlab, CICD.
